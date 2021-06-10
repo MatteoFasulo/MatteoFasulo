@@ -8,7 +8,8 @@
 class Student:
     def __init__(self):
         self.name = "Matteo Fasulo"
-        self.role = "Undergraduate student"
+        self.role = "Undergraduate Student"
+        self.university_department = "Data Science"
 
 
 me = Student()
