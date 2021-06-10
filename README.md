@@ -19,4 +19,4 @@ me = Student()
 - 🌱 I’m currently learning Python and R
 - 👯 I’m looking to collaborate on cool projects and stuff
 - 💬 Feel free to ask me any questions
-- 📫 How to reach me: [Instagram](https://www.instagram.com/matteofasuloo/) or [Email](mailto:info@matteofasulo.me)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/matteofasuloo/) or [![Email](info@matteofasulo.me)
