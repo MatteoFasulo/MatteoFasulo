@@ -40,3 +40,13 @@ me = Student()
 <a href="https://github.com/MatteoFasulo/MatteoFasulo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatteoFasulo&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
 </a>
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/MatteoFasulo/FFMPEG-Client-Server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoFasulo&repo=FFMPEG-Client-Server&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="FFMPEG-Client-Server" />
+</a>
+
+<a href="https://github.com/MatteoFasulo/Algos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoFasulo&repo=Algos&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Algos" />
+</a>
