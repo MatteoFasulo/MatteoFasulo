@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MatteoFasulo)
 
 ```python
 #!/usr/bin/python
