@@ -1,4 +1,4 @@
-### Hello there 👋
+# Hello there 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MatteoFasulo)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -17,7 +17,7 @@ class Student:
 
 me = Student()
 ```
-### Bio
+## Bio
 - 🔭 I’m currently working on getting better at coding
 - 🌱 I’m currently learning Python and R
 - 👯 I’m looking to collaborate on cool projects and stuff
