@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**MatteoFasulo/MatteoFasulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Student:
+    def __init__(self):
+        self.name = "Matteo Fasulo"
+        self.role = "Undergraduate student"
+
+
+me = Student()
+```
+### Bio
+- 🔭 I’m currently working on getting better at coding
+- 🌱 I’m currently learning python and R
+- 👯 I’m looking to collaborate on cool projects and stuff
+- 💬 Feel free to ask me any questions
+- 📫 How to reach me: [Instagram](https://www.instagram.com/matteofasuloo/) or [Email](mailto:info@matteofasulo.me)
