@@ -47,6 +47,6 @@ me = Student()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoFasulo&repo=FFMPEG-Client-Server&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="FFMPEG-Client-Server" />
 </a>
 
-<a href="https://github.com/MatteoFasulo/Algos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoFasulo&repo=Algos&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Algos" />
+<a href="https://github.com/MatteoFasulo/Paris-Euler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoFasulo&repo=Paris-Euler&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Algos" />
 </a>
