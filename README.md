@@ -22,8 +22,8 @@ me = Student()
 - 🌱 I’m currently learning Python and R
 - 👯 I’m looking to collaborate on cool projects and stuff
 - 💬 Feel free to ask me any questions
-- 📫 How to reach me: [Instagram](https://www.instagram.com/matteofasuloo/) or info@matteofasulo.me
-- 💻 Currently working on my personal website
+- 📫 How to reach me: [Website](https://www.matteofasulo.com/) or info@matteofasulo.me
+- 💻 Currently working on my personal website with Django
 
 ## 🔧 Setup
 
