@@ -23,7 +23,7 @@
 <a href="http://www.github.com/MatteoFasulo"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MatteoFasulo&theme=react-dark" alt="GitHub Commits Graph" /></a>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=react-dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MatteoFasulo&icon=0&color=0)](https://visitcount.itsvg.in)
