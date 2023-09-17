@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on getting better at coding<br>🌱 I’m currently learning Python and R<br>👯 I’m looking to collaborate on cool projects and stuff<br>💬 Feel free to ask me any questions<br>📫 How to reach me: [Website](https://matteofasulo.com) or info@matteofasulo.com<br>💻 Currently working on my personal website with Django
+🔭 Working on Django with HTMX and highly scalable NoSQL databases like Cassandra and ScyllaDB<br>
+🌱 Practicing Machine Learning and Deep Learning with Python using both TensorFlow and PyTorch<br>
+👯 Working on Embedded Systems => [Versal vck190](https://github.com/MatteoFasulo/Versal-C-Code)<br>
+💬💻 Looking for interesting projects to work on so feel free to ask me any questions and contact me through my socials!<br>
 
 
 ## 🌐 Socials:
