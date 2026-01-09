@@ -10,7 +10,9 @@
   Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" alt="Waving hand">
 </div>
 
-I'm **Matteo Fasulo**, an **AI Engineer** with a strong focus on Machine Learning, Deep Learning, and Generative AI.I hold a **BSc in Computer Science** and a **MSc in Artificial Intelligence**.
+I'm **Matteo Fasulo**, an **AI Engineer** with a strong focus on Machine Learning, Deep Learning, and Generative AI.
+
+I completed a **BSc in Computer Science** followed by an **MSc in Artificial Intelligence**.
 
 My work spans both research and applied projects across multiple AI domains, including **Large Language Models, NLP, Biosignal modeling, and Embedded AI systems**. I have hands-on experience with **self-supervised learning, transformer-based architectures, prompt-based evaluation, and retrieval-augmented methods**, developed through academic research, collaborations, and open-source contributions.
 
