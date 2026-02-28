@@ -1,39 +1,54 @@
-# About Me
+# [Matteo Fasulo](https://matteofasulo.com)
 
-[![Orcid](https://img.shields.io/badge/-ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7019-3157)
-[![Scholar](https://img.shields.io/badge/-GoogleScholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=n1iEq_EAAAAJ)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/matteofasulo)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/fasada760)
-[![X](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fmatteofasuloo)](https://x.com/MatFasulo)
+Machine Learning Engineer at the [Swiss Data Science Center](https://datascience.ch/), Zurich.
 
-<div align="center">
-  Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" alt="Waving hand">
-</div>
+My work spans foundation models, NLP, biosignal processing, and embedded AI - from research to deployment.
 
-I'm **Matteo Fasulo**, an **AI Engineer** with a strong focus on Machine Learning, Deep Learning, and Generative AI.
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7019-3157)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=n1iEq_EAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matteofasulo)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MatFasulo)
 
-I completed a **BSc in Computer Science** followed by an **MSc in Artificial Intelligence**.
+---
 
-My work spans both research and applied projects across multiple AI domains, including **Large Language Models, NLP, Biosignal modeling, and Embedded AI systems**. I have hands-on experience with **self-supervised learning, transformer-based architectures, prompt-based evaluation, and retrieval-augmented methods**, developed through academic research, collaborations, and open-source contributions.
+### Publications
 
-## 🚀 Projects & Research
+- **TinyMyo: A Tiny Foundation Model for Flexible EMG Signal Processing at the Edge**  
+  Fasulo, Spacone, Ingolfsson, Li, Benini, Cossettini · [arXiv:2512.15729](https://arxiv.org/abs/2512.15729) · 2026
 
-* **Biosignal Modeling** - [TinyMyo: a Tiny Foundation Model for Flexible EMG Signal Processing at the Edge](https://www.arxiv.org/abs/2512.15729)
-* **NLP (CLEF 2025)** - [Enhancing Transformer-Based Embeddings with Sentiment for Subjectivity Detection in News Articles](https://arxiv.org/abs/2507.11764).
-* **Generative AI & LLMs** - Prompt-based evaluation, in-context learning, and retrieval-augmented generation. Mainly conducted at [Outlier AI](https://outlier.ai/).
-* **NLP (EXIST 2023)** - EXIST 2023 task in finetuning models for Sexism Detection in Social Media and EDOS task from SemEval 2023 using In-Context Learning with zero-shot and few-shot learning. <https://github.com/MatteoFasulo/Sexism-detection>
-* **Embedded AI** - Low-level optimization and implementation on Xilinx/Versal VCK190. <https://github.com/MatteoFasulo/Versal-C-Code>
-* **Data Mining** - Amazon review sentiment analysis using R Shiny, ggplot, Plotly, and text mining pipelines.
-* **Cloud Computing** - Scalable WebApp using Docker Swarm, Ansible, ShinyProxy, Traefik, InfluxDB, and Grafana monitoring. <https://github.com/MatteoFasulo/ScalableWebApp>
+- **AIWizards at MULTIPRIDE: A Hierarchical Approach to Slur Reclamation Detection**  
+  Tedeschini, Fasulo · [arXiv:2602.12818](https://arxiv.org/abs/2602.12818), EVALITA 2026 · 2026
 
-Some experience (and occasionally, contribution) worth to mention over open source projects:
+- **AI Wizards at CheckThat! 2025: Enhancing Transformer-Based Embeddings with Sentiment for Subjectivity Detection**  
+  Fasulo, Babboni, Tedeschini · [CLEF 2025 Working Notes](https://arxiv.org/abs/2507.11764), CEUR Vol. 4038 · 2025
 
-* **OpenAI Whisper** under **HuggingFace transformer.js** with ONNX Runtime and WebGPU.
-* **Adversarial Robustness Toolbox (ART)** hosted by **Linux Foundation AI & Data Foundation (LF AI & Data)**.
-* **pgmpy** library for **Bayesian Networks**.
-* **Whisper-TikTok** – A side project I started purely for fun: an AI-driven tool with **Microsoft Edge TTS**, **OpenAI Whisper**, and **FFmpeg** to automatically generate TikTok-style videos—with transcriptions, voiceovers, and background content—just by tweaking a simple JSON file.
+---
 
-## 💻 Tech Stack
+### Selected Projects
+
+**[TinyMyo](https://arxiv.org/abs/2512.15729)** — 3.6M-parameter EMG foundation model via self-supervised masked reconstruction. State-of-the-art on NinaPro DB5, UCI-EMG, EPN-612. Deployed on GAP9 microcontroller (0.785s · 44.91 mJ).
+
+**[Subjectivity Detection — CLEF 2025](https://arxiv.org/abs/2507.11764)** — Sentiment-enhanced transformer embeddings for objective/subjective news classification.
+
+**[Whisper-TikTok](https://github.com/MatteoFasulo/Whisper-TikTok)** — Automated video generation pipeline combining OpenAI Whisper, EdgeTTS, and FFmpeg.
+
+**[Sexism Detection](https://github.com/MatteoFasulo/Sexism-detection)** — Fine-tuned transformers for EXIST 2023 + SemEval EDOS, including zero/few-shot in-context learning.
+
+**[Scalable WebApp](https://github.com/MatteoFasulo/ScalableWebApp)** — Scalable WebApp with monitoring using Docker Swarm · Ansible · Traefik · InfluxDB · Grafana.
+
+**[Versal Embedded AI](https://github.com/MatteoFasulo/Versal-C-Code)** — Deep learning optimization on AMD/Xilinx Versal VCK190 for real-time inference.
+
+---
+
+### Open Source
+
+Contributed to [transformers.js](https://github.com/huggingface/transformers.js) (Whisper + ONNX + WebGPU) and [ART](https://github.com/Trusted-AI/adversarial-robustness-toolbox) (LF AI & Data).
+
+NLP shared task submissions and competition code are published under [NLP-AI-Wizards](https://github.com/NLP-AI-Wizards).
+
+---
+
+### Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -61,6 +76,8 @@ Some experience (and occasionally, contribution) worth to mention over open sour
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+
 ### ✍️ Random Dev Quote
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=react-dark)
@@ -68,4 +85,3 @@ Some experience (and occasionally, contribution) worth to mention over open sour
 ### 💰 Sponsor me
 
 * <https://github.com/sponsors/MatteoFasulo>
-* [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MatteoFasulo)
