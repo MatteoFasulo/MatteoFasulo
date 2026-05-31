@@ -1,52 +1,21 @@
-# [Matteo Fasulo](https://matteofasulo.com)
-
-Machine Learning Engineer at the [Swiss Data Science Center](https://datascience.ch/), Zurich.
-
-My work spans foundation models, NLP, biosignal processing, and embedded AI - from research to deployment.
+# About Me
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7019-3157)
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=n1iEq_EAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matteofasulo)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MatFasulo)
 
----
+I'm Matteo — a Machine Learning Engineer passionate about building intelligent systems at the intersection of AI research and real-world applications.
 
-### Publications
+My journey started in Rome, Italy 🇮🇹, where I studied Computer Science and Data Science, and later brought me to Zurich, Switzerland 🇨🇭, where I worked on foundation models for EMG-based human–machine interfaces at ETH Zurich. Along the way, I completed my MSc in Artificial Intelligence at the University of Bologna, focusing on machine learning, deep learning, and AI systems.
 
-- **TinyMyo: A Tiny Foundation Model for Flexible EMG Signal Processing at the Edge**  
-  Fasulo, Spacone, Ingolfsson, Li, Benini, Cossettini · [arXiv:2512.15729](https://arxiv.org/abs/2512.15729) · 2026
+I currently work as a Machine Learning Engineer at the Swiss Data Science Center, where I develop generative AI solutions for engineering applications and conduct NLP research in multilingual political science.
 
-- **AIWizards at MULTIPRIDE: A Hierarchical Approach to Slur Reclamation Detection**  
-  Tedeschini, Fasulo · [arXiv:2602.12818](https://arxiv.org/abs/2602.12818), EVALITA 2026 · 2026
+My main interests include ML, LLMs, and Multimodal AI. I enjoy working across the full ML lifecycle, from research and model development to optimization, deployment, and scalable production systems.
 
-- **AI Wizards at CheckThat! 2025: Enhancing Transformer-Based Embeddings with Sentiment for Subjectivity Detection**  
-  Fasulo, Babboni, Tedeschini · [CLEF 2025 Working Notes](https://arxiv.org/abs/2507.11764), CEUR Vol. 4038 · 2025
+This GitHub is where I share the projects I’ve built throughout my journey — including research work, coursework, experiments, and side projects spanning DL, Embedded AI, Multimodal Systems, and Software Engineering.
 
----
-
-### Selected Projects
-
-**[TinyMyo](https://arxiv.org/abs/2512.15729)** — 3.6M-parameter EMG foundation model via self-supervised masked reconstruction. State-of-the-art on NinaPro DB5, UCI-EMG, EPN-612. Deployed on GAP9 microcontroller (0.785s · 44.91 mJ).
-
-**[Subjectivity Detection — CLEF 2025](https://arxiv.org/abs/2507.11764)** — Sentiment-enhanced transformer embeddings for objective/subjective news classification.
-
-**[Whisper-TikTok](https://github.com/MatteoFasulo/Whisper-TikTok)** — Automated video generation pipeline combining OpenAI Whisper, EdgeTTS, and FFmpeg.
-
-**[Sexism Detection](https://github.com/MatteoFasulo/Sexism-detection)** — Fine-tuned transformers for EXIST 2023 + SemEval EDOS, including zero/few-shot in-context learning.
-
-**[Scalable WebApp](https://github.com/MatteoFasulo/ScalableWebApp)** — Scalable WebApp with monitoring using Docker Swarm · Ansible · Traefik · InfluxDB · Grafana.
-
-**[Versal Embedded AI](https://github.com/MatteoFasulo/Versal-C-Code)** — Deep learning optimization on AMD/Xilinx Versal VCK190 for real-time inference.
-
----
-
-### Open Source
-
-Contributed to [transformers.js](https://github.com/huggingface/transformers.js) (Whisper + ONNX + WebGPU) and [ART](https://github.com/Trusted-AI/adversarial-robustness-toolbox) (LF AI & Data).
-
-NLP shared task submissions and competition code are published under [NLP-AI-Wizards](https://github.com/NLP-AI-Wizards).
-
----
+Feel free to explore my repositories below!
 
 ### Stack
 
