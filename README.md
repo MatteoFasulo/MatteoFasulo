@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matteofasulo)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MatFasulo)
 
-I'm Matteo — a Machine Learning Engineer passionate about building intelligent systems at the intersection of AI research and real-world applications.
+I'm Matteo, a Machine Learning Engineer passionate about building intelligent systems at the intersection of AI research and real-world applications.
 
 My journey started in Rome, Italy 🇮🇹, where I studied Computer Science and Data Science, and later brought me to Zurich, Switzerland 🇨🇭, where I worked on foundation models for EMG-based human–machine interfaces at ETH Zurich. Along the way, I completed my MSc in Artificial Intelligence at the University of Bologna, focusing on machine learning, deep learning, and AI systems.
 
@@ -13,7 +13,7 @@ I currently work as a Machine Learning Engineer at the Swiss Data Science Center
 
 My main interests include ML, LLMs, and Multimodal AI. I enjoy working across the full ML lifecycle, from research and model development to optimization, deployment, and scalable production systems.
 
-This GitHub is where I share the projects I’ve built throughout my journey — including research work, coursework, experiments, and side projects spanning DL, Embedded AI, Multimodal Systems, and Software Engineering.
+This GitHub is where I share the projects I’ve built throughout my journey, including research work, coursework, experiments, and side projects spanning DL, Embedded AI, Multimodal Systems, and Software Engineering.
 
 Feel free to explore my repositories below!
 
